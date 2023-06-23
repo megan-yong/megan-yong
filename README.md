@@ -2,9 +2,8 @@
 <b>I'm Megan Yong (she/her)</b>, a BA Linguistics student at the University of York. I'm interested in computational linguistics, specifically Conversation Design (CxD), Language Technology (LT) or Large Language Model (LLM). 
 
 <h3>Skills:</h3>
-I'm currently learning R and Python, and have dabbled in LaTex, HTML, and CSS. 
-<br>
-<br>
+I'm currently learning R and Python, and have dabbled in LaTex, HTML, and CSS. <br> <br>
+
 [![My Skills](https://skillicons.dev/icons?i=r,latex,py,html,css&theme=light)](https://skillicons.dev)
 
 <h3>Certifications:</h3>

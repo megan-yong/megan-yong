@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **megan-yong/megan-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Megan Yong, a BA Linguistics student at the University of York. I'm currently picking up R and Python, and dabble in LaTex, HTML, and CSS. 

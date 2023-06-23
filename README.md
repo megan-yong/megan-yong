@@ -1,16 +1,9 @@
 <h1>Hello! 😁</h1>
-I'm Megan Yong, a BA Linguistics student at the University of York. 
+<b>I'm Megan Yong (she/her)</b>, a BA Linguistics student at the University of York. I'm interested in computational linguistics, specifically Conversation Design (CxD), Language Technology (LT) or Large Language Model (LLM). 
 
-<h3>Coding Languages:</h3>
+<h3>Skills:</h3>
 
-- <b>R</b>
-  - [Analyses of L2 English Syntax of Jordanian Arabic speakers](https://github.com/megan-yong/l2-syntax-arabic-eng)
-  - [Most frequent words in user's tweets](https://github.com/megan-yong/twitter-user-corpus)
-  - [Lexical variation in the UK based on tweets](https://github.com/megan-yong/uk-twitter-variation)
-- <b>Python</b>
-- <b>LaTeX</b>
-- <b>HTML</b>
-- <b>CSS</b>
+[![My Skills](https://skillicons.dev/icons?i=r,latex,py,html,css&theme=light)](https://skillicons.dev)
 
 <h3>Certifications:</h3>
 

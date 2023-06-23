@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Megan Yong, a BA Linguistics student at the University of York. I'm currently picking up R and Python, and dabble in LaTex, HTML, and CSS. 
+I'm Megan Yong, a BA Linguistics student at the University of York. I'm currently learning R and Python, and dabble a little in LaTex, HTML, and CSS. 

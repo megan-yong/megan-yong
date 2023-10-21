@@ -1,5 +1,5 @@
 <h1>Hello! 😁</h1>
-<b>I'm Megan Yong (she/her)</b>, a BA Linguistics student at the University of York. I'm interested in computational linguistics, specifically Conversation Design (CxD), Language Technology (LT) or Large Language Model (LLM). 
+<b>I'm Megan Yong (she/her)</b>, a BA Linguistics student at the University of York. I'm interested in computational linguistics, specifically Conversational UI Design, multilingual NLPs, and LLMs. 
 
 <h3>Skills:</h3>
 I'm currently learning R and Python, and have dabbled in LaTex, HTML, and CSS. <br> <br>

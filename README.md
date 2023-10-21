@@ -4,7 +4,7 @@
 <h3>Skills:</h3>
 I'm currently learning R and Python, and have dabbled in LaTex, HTML, and CSS. <br> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=r,latex,py,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,latex,html,css&theme=light)](https://skillicons.dev)
 
 <h3>Certifications:</h3>
 

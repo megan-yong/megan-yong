@@ -1,10 +1,10 @@
 <h1>Hello! 😁</h1>
-<b>I'm Megan Yong (she/her)</b>, a BA Linguistics student at the University of York. I'm interested in computational linguistics, specifically Conversational UI Design, multilingual NLPs, and LLMs. 
+<b>I'm Megan Yong (she/her)</b>, a MSc Computer Science with Speech and Language Processing student at the University of Sheffield. I'm interested in computational linguistics, specifically knowledge engineering, conversation design, multilingual NLP models, or LLMs.
 
 <h3>Skills:</h3>
-I'm currently learning R and Python, and have dabbled in LaTex, HTML, and CSS. <br> <br>
+I'm currently learning Python, and have dabbled in LaTex, R, Java, HTML, and CSS. <br> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=r,py,latex,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,latex,r,java,html,css&theme=light)](https://skillicons.dev)
 
 <h3>Certifications:</h3>
 

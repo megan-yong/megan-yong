@@ -4,7 +4,7 @@
 <h3>Skills:</h3>
 I'm currently learning Python, and have dabbled in LaTex, R, Java, HTML, and CSS. <br> <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,latex,r,java,html,css&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=py,latex,r,java,html,css&theme=light)
 
 <h3>Certifications:</h3>
 
@@ -14,7 +14,7 @@ I'm currently learning Python, and have dabbled in LaTex, R, Java, HTML, and CSS
 
 <h3>Socials:</h3>
 
-[<img align="left" alt="MeganYong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MeganYong | LinkedIn" src="https://img.icons8.com/?size=35&id=qNUNvR9aEWql&format=png&color=000000"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/megan-yong
 

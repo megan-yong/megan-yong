@@ -1,5 +1,5 @@
 <h1>Hello! 😁</h1>
-<b>I'm Megan Yong (she/her)</b>, a MSc Computer Science with Speech and Language Processing student at the University of Sheffield. I'm interested in computational linguistics, specifically knowledge engineering, conversation design, multilingual NLP models, or LLMs.
+<b>I'm Megan Yong (she/her)</b>, an MSc Computer Science with Speech and Language Processing student. I'm interested in computational linguistics, specifically knowledge engineering, conversation design, multilingual NLP models, or LLMs.
 
 <h3>Skills:</h3>
 I'm currently learning Python, and have dabbled in LaTex, R, Java, HTML, and CSS. <br> <br>
